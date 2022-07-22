@@ -1,0 +1,5 @@
+print('文字列１:',end='')
+str1 = input()
+print('文字列２:',end='')
+str2 = input ()
+print(str2 + str1)

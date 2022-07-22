@@ -1,0 +1,6 @@
+print('三角形の面積を求めます')
+print('縦の長さ:',end='')
+bottom = int(input())
+print('横の長さ:',end='')
+height = int(input())
+print('三角形の面積 =',bottom * height/2 )
